@@ -7,12 +7,15 @@ This project presents an interactive Power BI dashboard analyzing the IPL 2025 s
 
 
 ✅ Key Highlights:
-Team-wise and Player-wise performance breakdowns
+1.Team-wise and Player-wise performance breakdowns
 
-Top scorers, wicket-takers, and most valuable players
+2.Top scorers, wicket-takers, and most valuable players
 Visualizations for batting & bowling performance comparisons
 
-Filters for exploring specific teams, players, and matches
+3.Filters for exploring specific teams, players, and matches
+
+Dashboards Link:
+https://app.powerbi.com/groups/me/reports/1d003e62-9cc0-44a9-ac3c-5b6ea64d1a04/fc487ed94edc70289272?experience=power-bi
 
 
 📊 Tools & Technologies:
